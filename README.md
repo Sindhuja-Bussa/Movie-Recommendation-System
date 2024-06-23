@@ -22,7 +22,7 @@ To get your personalized movie recommendations:
 2. Input your favorite movie into Movie Match.
 3. Enjoy a handpicked selection of movies matched to your unique taste!
 
-To explore the Colab notebook for detailed code implementation and analysis, click [here](https://colab.research.google.com/github/virajbhutada/ybi_foundation-task/blob/main/Movie%20Recommendation%20System/Movie_Recommendation_System_Colab%20(1).ipynb)
+To explore the Colab notebook for detailed code implementation and analysis, click [here](https://colab.research.google.com/drive/1vK8fJoj9f76bEv5ZkEdH11gorfWjMP3b?usp=sharing)
 
 ## Feedback
 
